@@ -11,9 +11,9 @@ Commit in this box for no merge conflicts:[
 Commit in this box for merge conflicts: [ there are conflicts here!!!
 ]
 
-3
+3 
 
-4
+4 This PR can also merge
 
 5
 
@@ -21,7 +21,7 @@ Commit in this box for merge conflicts: [ there are conflicts here!!!
 
 7
 
-8
+8 Can squash 2 :dog:
 
 9 Can squash 3
 
