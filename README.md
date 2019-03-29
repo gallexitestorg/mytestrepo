@@ -19,7 +19,7 @@ Commit in this box for merge conflicts: [ there are conflicts here!!!]
 
 5 Can merge
 
-6
+6 Can merge
 
 7
 
