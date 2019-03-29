@@ -8,12 +8,12 @@ Commit in this box for no merge conflicts:[
 ]
 
 2
-Commit in this box for merge conflicts: [
-]
+Commit in this box for merge conflicts: [ Conflict 1
+Commit in this box for merge conflicts: [ there are conflicts here!!!]
 
-3
+3 
 
-4
+4 This PR can also merge
 
 5 Can merge
 
@@ -21,7 +21,7 @@ Commit in this box for merge conflicts: [
 
 7
 
-8
+8 Can squash 2 :dog:
 
 9
 
@@ -35,4 +35,4 @@ Commit in this box for merge conflicts: [
 
 14
 
-15
+15 Ok ok ok ok but. What if. Now I'll test on review-lab
