@@ -9,7 +9,7 @@ Commit in this box for no merge conflicts:[
 
 2
 Commit in this box for merge conflicts: [ Conflict 1
-]
+Commit in this box for merge conflicts: [ there are conflicts here!!!]
 
 3
 
