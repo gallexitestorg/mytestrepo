@@ -8,7 +8,7 @@ Commit in this box for no merge conflicts:[
 ]
 
 2
-Commit in this box for merge conflicts: [
+Commit in this box for merge conflicts: [ there are conflicts here!!!
 ]
 
 3 
@@ -21,7 +21,7 @@ Commit in this box for merge conflicts: [
 
 7
 
-8
+8 Can squash 2 :dog:
 
 9
 
