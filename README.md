@@ -8,7 +8,7 @@ Commit in this box for no merge conflicts:[
 ]
 
 2
-Commit in this box for merge conflicts: [
+Commit in this box for merge conflicts: [ Conflict 3
 ]
 
 3
