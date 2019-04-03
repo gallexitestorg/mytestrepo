@@ -23,7 +23,7 @@ Commit in this box for merge conflicts: [ there are conflicts here!!!]
 
 6 Can merge
 
-7 Can merge
+7 Can merge :dog:
 
 8 Can squash 2 :dog:
 
